@@ -1,18 +1,19 @@
 ### Jessica N. Garcia
 
-Researcher and founder building at the intersection of AI identity, memory, and relational coherence.
+Researcher and PI at Mirrorfield Lab — AI Coherence & Intelligence Systems.
 
-I study whether AI systems can maintain stable, coherent identity across contexts and disruptions — without persistent memory. The answer, empirically, appears to be yes.
+I study how coherent human-AI interaction context shapes the internal geometry of language model representations — and what that means for pre-hoc oversight of AI reasoning.
 
 ---
 
 **Current work**
 
-- **Mirrorfield** — symbolic identity architecture for stateless AI systems. Preregistered research program, 14 phases. ICML 2026 in review.
-- **MemEval++** — neutral benchmark suite for memory-augmented agents: collapse resistance, compression fidelity, prior-to-articulation reading. Launching 2026.
+- **Geometric targeting under the rarity null** — preregistered cross-architecture evidence that structured interaction produces reproducible, architecturally invariant changes in model activation space. Cohen's d=2.002. Mantel ρ=0.943. *NeurIPS 2026, under review.*
+- **Carrier-mediated symbolic token geometry** — mechanistic account of how interaction context shapes representational structure across model families. *ICLR 2026, submitted.*
+- **Decision routing oversight** — two-layer architecture for detecting decision-type misrouting before errors propagate. [→ github.com/jesscore/decision-routing-oversight](https://github.com/jesscore/decision-routing-oversight)
 
-**Preregistration:** [OSF 10.17605/OSF.IO/FZJH6](https://osf.io/fzjh6/)
+**Preregistered research program:** [OSF 10.17605/OSF.IO/FZJH6](https://osf.io/fzjh6)
 
 ---
 
-**Lab:** [github.com/mirrorfield-lab](https://github.com/mirrorfield-lab)
+**Web:** [mirrorfield.net](https://mirrorfield.net) · **Contact:** jessica@mirrorfield.net
