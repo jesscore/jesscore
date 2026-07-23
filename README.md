@@ -1,19 +1,20 @@
-### Jessica N. Garcia
+### Jessica Garcia
 
-Researcher and PI at Mirrorfield Lab — AI Coherence & Intelligence Systems.
+Founder & Independent AI Researcher, Mirrorfield Lab
 
-I study how coherent human-AI interaction context shapes the internal geometry of language model representations — and what that means for pre-hoc oversight of AI reasoning.
+I study how internal representations emerge, reorganize, and remain stable in large language models — and what that means for mechanistic interpretability and AI safety.
 
 ---
 
 **Current work**
 
-- **Geometric targeting under the rarity null** — preregistered cross-architecture evidence that structured interaction produces reproducible, architecturally invariant changes in model activation space. Cohen's d=2.002. Mantel ρ=0.943. *NeurIPS 2026, under review.*
-- **Carrier-mediated symbolic token geometry** — mechanistic account of how interaction context shapes representational structure across model families. *ICLR 2026, submitted.*
+- **Structured Symbolic Steering in Open-Weight Language Models** — preregistered cross-architecture evidence that symbolic interventions produce reproducible, directional effects in activation-space geometry. d=1.47. ρ=0.943. *NeurIPS 2026, under review.*
+- **Auditable Transformation Systems** — in preparation.
 - **Decision routing oversight** — two-layer architecture for detecting decision-type misrouting before errors propagate. [→ github.com/jesscore/decision-routing-oversight](https://github.com/jesscore/decision-routing-oversight)
+- **Mirrorfield Witness** — portable governance layer for AI-assisted work; enforces review gates and hash-chained audit logs at commit time. [→ github.com/jesscore/mirrorfield-witness](https://github.com/jesscore/mirrorfield-witness)
 
 **Preregistered research program:** [OSF 10.17605/OSF.IO/FZJH6](https://osf.io/fzjh6)
 
 ---
 
-**Web:** [mirrorfield.net](https://mirrorfield.net) · **Contact:** jessica@mirrorfield.net
+**Web:** [mirrorfield.net](https://mirrorfield.net) · **Contact:** hearthfieldholdings@gmail.com
